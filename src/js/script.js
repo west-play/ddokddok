@@ -94,10 +94,7 @@ $('.shortcut_proto').click(function(){
 
 
 
-
-
-
-
+ 
 
 
 
