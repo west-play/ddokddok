@@ -131,10 +131,22 @@ body {
 
 
 
-.middle{
-    width: 100%;
-    position: relative;
+.designer_5{
+  width: 100%;
+  position: relative;
+  top: 7vh;
 }
+
+.noname_main{
+  width: 100vw;
+  position: relative;
+  top: 20vh;
+  margin-bottom: 40vh;
+}
+
+
+
+
 
 
 .bc_set{
