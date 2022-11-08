@@ -112,6 +112,7 @@ body {
 /* 네비 메뉴 탭 */
 .menu_tab{
   width: 45%;
+  position: relative;
   margin: 0 auto;
   z-index: 100;
 }
