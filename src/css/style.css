@@ -70,7 +70,7 @@ body {
   max-width: 1920px;
   height: 100%;
   overflow: hidden;
-  cursor: url(../img/cursor_basic.svg) auto;
+  cursor: url(../img/about_bell.png) auto;
 }
 
 .nav_set { /* 네비게이션 */
@@ -206,6 +206,10 @@ body {
   top: 5vh;
   left: 30vw;
   position: absolute;
+}
+
+.main_ddok :hover{
+  cursor: pointer;
 }
 
 .SNS_link{
